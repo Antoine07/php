@@ -1,0 +1,17 @@
+{
+    "name": "antoinelucsko/corrections",
+    "autoload": {
+        "psr-4": {
+            "Antoinelucsko\\Corrections\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Antoine07",
+            "email": "antoine.lucsko@gmail.com"
+        }
+    ],
+    "require": {
+        "php-ds/php-ds": "^1.4"
+    }
+}
