@@ -1,7 +1,7 @@
 <?php
 
 /**
- * 11 Exercice distance
+ * 12 Exercice distance
  * Déterminez les deux villes les plus éloignées l'une de l'autre.
  */
 
